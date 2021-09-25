@@ -13,7 +13,7 @@
 
 ### 运行
 
-[deno](https://github.com/denoland/deno)(推荐)
+[deno](https://github.com/denoland/deno)
 ```sh
 deno run https://cdn.jsdelivr.net/gh/rustyland/3matchsticks@main/mod.ts
 ```
