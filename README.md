@@ -27,5 +27,5 @@ firefox ./index.html &
 (浏览器打开 index.html，**内容由console.log()输出，F12查看**)
 
 ### 截图
-[![img1](https://cdn.jsdelivr.net/gh/ctiodn/3matchsticks@main/img1.png)](https://cdn.jsdelivr.net/gh/ctiodn/3matchsticks@main/img1.png)
-[![img2](https://cdn.jsdelivr.net/gh/ctiodn/3matchsticks@main/img2.png)](https://cdn.jsdelivr.net/gh/ctiodn/3matchsticks@main/img2.png)
+[![img1](https://cdn.jsdelivr.net/gh/rustyland/3matchsticks@main/img1.png)](https://cdn.jsdelivr.net/gh/rustyland/3matchsticks@main/img1.png)
+[![img2](https://cdn.jsdelivr.net/gh/rustyland/3matchsticks@main/img2.png)](https://cdn.jsdelivr.net/gh/rustyland/3matchsticks@main/img2.png)
