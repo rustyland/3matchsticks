@@ -24,7 +24,7 @@ git clone https://github.com/rustyland/3matchsticks
 cd ./3matchsticks
 firefox ./index.html &
 ```
-(浏览器打开 index.html，**内容由console.log()输出，按F12查看**)
+(浏览器打开 index.html，**内容由console.log()输出，F12查看**)
 
 ### 截图
 [![img1](https://cdn.jsdelivr.net/gh/ctiodn/3matchsticks@main/img1.png)](https://cdn.jsdelivr.net/gh/ctiodn/3matchsticks@main/img1.png)
